@@ -103,3 +103,6 @@ The Facial Recognition System with Django is a versatile application designed fo
     EMAIL_HOST_USER = "<Your email Id>"
     EMAIL_HOST_PASSWORD = "<You email app password>" 
     ```
+
+3. Tryin something new:
+   
